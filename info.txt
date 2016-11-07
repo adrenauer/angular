@@ -1,0 +1,12 @@
+cd angular
+
+git status
+git add (file/folder oder *)
+git commit -m „meine nachricht“
+git push
+
+neue Sachen holen: git pull
+
+
+wenn fälschlicherweise eine Datei oder ein Ordner weg oder geändert ist (in rot angezeigt)
+rückgängig machen: git checkout (folder/file)
